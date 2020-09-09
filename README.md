@@ -18,6 +18,7 @@ df_pdc <- pdc_cal(data = df_simulated,
 
 You can use your own dataset to calculate it, I also provided a sample simulation code. You can calculate the pdc using our sample simulation data.
 
+![](simuatedPDC.png)
 
 
 ## Simulation

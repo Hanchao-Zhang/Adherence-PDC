@@ -71,3 +71,7 @@ df_simulated
 write.csv(df_simulated, file = 'simulated.csv')
 
 ```
+
+
+
+![](sampleData.png)
